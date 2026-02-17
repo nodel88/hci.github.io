@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>HCI</title>
+<link rel="icon" href="https://hci.cn/favicon.gif" type="image/gif" />
+<link rel=apple-touch-icon href="https://hci.cn/apple-touch-icon.png" />
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id:"KLfA4K8BymlfdYqS",ck:"KLfA4K8BymlfdYqS"})</script>
+<style type="text/css">
+<!--
+body,td,th {
+	font-family: 微软雅黑, 宋体, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+}
+.STYLE1 {
+	font-size: 88px;
+	font-size: calc(5.8rem + 0.5vw); /* 现代浏览器覆盖 */
+	font-family: 楷体, 宋体;
+	height:19px;
+}
+.STYLE2 {
+	font-size: 18px;
+	font-family: "Times New Roman", Times, serif;
+}
+-->
+</style></head>
+
+<body>
+<p align="center" class="STYLE12">&nbsp;</p>
+<p align="center" class="STYLE12">&nbsp;</p>
+<p align="center" class="STYLE12"><a href="https://hci.cn"><img src="hci-logo.svg" width="168" border="0" /></a></p>
+<p align="center" class="STYLE1">衣 食 住 行 乐</p>
+<p align="center" class="STYLE2">Clothing · Food · Housing · Transportation · Entertainment</p>
+<p align="center" class="STYLE12">&nbsp;</p>
+<p align="center" class="STYLE12">新网站即将上线，敬请期待！<br />
+The new website is coming soon, Stay tuned!</p>
+<p align="center" class="STYLE12">&nbsp;</p>
+<p align="center" class="STYLE12">&nbsp;</p>
+<p align="center" class="STYLE12">&nbsp;</p>
+<p align="center" class="STYLE12">&nbsp;</p>
+<p align="center" class="STYLE12">&nbsp;</p>
+<p align="center" class="STYLE12">&nbsp;</p>
+<p align="center" class="STYLE12">&nbsp;</p>
+<p align="center" class="STYLE12">&nbsp;</p>
+<p align="center" class="STYLE12">&nbsp;</p>
+<p align="center" class="STYLE12">Copyright ©  HCI</p>
+<p align="center" class="STYLE12">2025</p>
+<p align="center" class="STYLE12">&nbsp;</p>
+</body>
+</html>
